@@ -2,9 +2,6 @@
 
 # Set variables
 
-logfile="/Library/TT/Logs/mounthome.log"
-		# Set the path to your log file
-		
 mount_protocol="smb"
 		# Use "afp" or "smb"
 
@@ -12,8 +9,7 @@ mount_protocol="smb"
 
 writelog()
 {
-	echo "${1}"	
-	echo $(date) "${1}" >> $logfile
+	echo "${1}"
 }
 
 writelog "STARTING: User drive mount"
