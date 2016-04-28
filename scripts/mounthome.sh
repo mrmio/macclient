@@ -17,8 +17,7 @@ writelog "STARTING: User drive mount"
 # Already mounted check
 
 # The following checks confirm whether the user's personal network drive is already mounted,
-# (exiting if it is).  If it is not already mounted, it checks if there is a mount point
-# already in /Volumes.  If there is, it is deleted.
+# (exiting if it is).
 
 isMounted=`mount | grep -c "/Volumes/$USER"`
 
