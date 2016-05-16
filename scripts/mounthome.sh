@@ -51,7 +51,7 @@ esac
 	mount volume "${mount_protocol}://${adHome}"
 EOT`
 
-writelog "Script complete"
+writelog "Drive mount complete"
 # Script End
 
 exit 0
