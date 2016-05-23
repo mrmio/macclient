@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Login Window</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.deploy3.ad.tt.se.b8619720-ff19-0133-1c55-109add60f0bf.alacarte.loginwindow.ee1fb520-ff19-0133-1c56-109add60f0bf.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.SetupAssistant.managed</string>
+			<key>PayloadUUID</key>
+			<string>9b559551-51ae-76b8-eed8-f30e2ef44cd7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SkipCloudSetup</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Skip iCloud Setup</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.deploy3.ad.tt.se.b8619720-ff19-0133-1c55-109add60f0bf.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>TT Nyhetsbyrån AB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>b8619720-ff19-0133-1c55-109add60f0bf</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
