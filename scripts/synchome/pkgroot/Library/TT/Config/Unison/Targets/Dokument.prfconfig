@@ -1,0 +1,61 @@
+
+# Settings for Documents
+
+root = /Users/{USER}/Documents
+root = /Volumes/{USER}/Documents
+
+ignore = Name .parallels-vm-directory
+ignore = Path Parallels
+ignore = Path VirtualBox*
+ignore = Path Virtual Machines*
+
+ignore = Path Box Sync
+ignore = Path Dropbox*
+ignore = Path Google Drive
+ignore = Path OneDrive*
+
+ignore = Path Microsoft User*
+ignore = Path Microsoft anv*
+
+ignore = Path Adobe Flash Builder*
+ignore = Path Adobe Scripts
+ignore = Path AdobeStockPhotos
+ignore = Path Burn Temporary*
+ignore = Path EyeTV Archive
+ignore = Path FotoWare
+ignore = Path iChats
+ignore = Path My Tableau Repository
+ignore = Path Newspilot/Newspilot Autosave
+ignore = Path Newspilot/Newspilot Pages And Templates
+ignore = Path Newspilot/Newspilot Print
+ignore = Path Newspilot/Newspilot Temp
+ignore = Path RDC Connections
+ignore = Path Scoop Publishware
+ignore = Path TVEditor
+ignore = Path Version Cue
+
+ignore = Name InstallESD.dmg
+ignore = Name *.dmg
+ignore = Name *.exe
+ignore = Name *.iso
+ignore = Name *.msi
+ignore = Name *.pkg
+ignore = Name TTTV*.m3u
+
+#Mediatypes
+# ignore = Name *.aac
+# ignore = Name *.avi
+# ignore = Name *.flac
+# ignore = Name *.m4a
+# ignore = Name *.m4b
+# ignore = Name *.m4p
+# ignore = Name *.m4v
+# ignore = Name *.m4r
+# ignore = Name *.mp3
+# ignore = Name *.mp4
+# ignore = Name *.mpg
+# ignore = Name *.mkv
+# ignore = Name *.mov
+# ignore = Name *.wav
+# ignore = Name *.wmv
+# ignore = Name *.wma

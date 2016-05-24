@@ -1,0 +1,39 @@
+
+# Settings for Desktop
+
+root = /Users/{USER}/Desktop
+root = /Volumes/{USER}/Desktop
+
+ignore = Path Parallels
+ignore = Path VirtualBox*
+ignore = Path Virtual Machines*
+
+ignore = Path Box Sync
+ignore = Path Dropbox*
+ignore = Path Google Drive
+ignore = Path OneDrive*
+
+ignore = Name InstallESD.dmg
+ignore = Name *.dmg
+ignore = Name *.exe
+ignore = Name *.iso
+ignore = Name *.msi
+ignore = Name *.pkg
+
+#Mediatypes
+# ignore = Name *.aac
+# ignore = Name *.avi
+# ignore = Name *.flac
+# ignore = Name *.m4a
+# ignore = Name *.m4b
+# ignore = Name *.m4p
+# ignore = Name *.m4v
+# ignore = Name *.m4r
+# ignore = Name *.mp3
+# ignore = Name *.mp4
+# ignore = Name *.mpg
+# ignore = Name *.mkv
+# ignore = Name *.mov
+# ignore = Name *.wav
+# ignore = Name *.wmv
+# ignore = Name *.wma

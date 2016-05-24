@@ -1,0 +1,142 @@
+
+# Settings for Library
+
+root = /Users/{USER}/Library
+root = /Volumes/{USER}/Library
+
+prefer = newer
+
+#Unison
+ignore = Name unison.log
+ignore = Path Application Support/Unison
+
+#Generic
+ignore = Name {Cache*,cache*}
+ignore = Path Accounts
+ignore = Path AutoPkg
+ignore = Path Autosave Information
+ignore = Path Caches
+ignore = Path Containers
+ignore = Path Developer
+ignore = Path Documentation
+ignore = Path Extensis
+ignore = Path FileSync
+ignore = Path firstclass
+ignore = Path GameKit
+ignore = Path Google
+ignore = Path Group Containers
+ignore = Path IdentityServices
+ignore = Path Logs
+ignore = Path Parallels
+ignore = Path Printers
+ignore = Path QuicKeys
+ignore = Path Saved Application State
+ignore = Path Scripts
+ignore = Path ScriptingAdditions
+ignore = Path Spelling
+ignore = Path Suggestions
+ignore = Path VirtualBox*
+ignore = Path Xmarks
+ignore = Name *.scpt
+ignore = Name *.applescript
+ignore = Name roottools.conf
+ignore = Name Keychains/.fl*
+ignore = Name Messages/chat.db-shm
+
+ignore = Path PubSub/Database
+ignore = Path PubSub/Downloads
+ignore = Path PubSub/Feeds
+
+ignore = Path Application Support/Adobe
+ignore = Path Application Support/AddressBook/Sources
+ignore = Path Application Support/Box
+ignore = Path Application Support/CallHistoryDB
+ignore = Path Application Support/CallHistoryTransactions
+ignore = Path Application Support/CloudDocs
+ignore = Path Application Support/ColormanCS*
+ignore = Path Application Support/Contents
+ignore = Path Application Support/CrashReporter
+ignore = Path Application Support/Dropbox
+ignore = Path Application Support/Evernote
+ignore = Path Application Support/EyeTV
+ignore = Path Application Support/FullCircle
+ignore = Path Application Support/Google
+ignore = Path Application Support/Growl
+ignore = Path Application Support/iLifeAssetManagement
+ignore = Path Application Support/iDVD
+ignore = Path Application Support/Java
+ignore = Path Application Support/LibreOffice*
+ignore = Path Application Support/Microsoft/Office
+ignore = Path Application Support/MobileSync
+ignore = Path Application Support/MunkiAdmin
+ignore = Path Application Support/NotificationCenter
+ignore = Path Application Support/OpenOffice*
+ignore = Path Application Support/RealNetworks
+ignore = Path Application Support/Scoop Publishware
+ignore = Path Application Support/Skype/Emoticon*
+ignore = Path Application Support/Skype/Upgrade
+ignore = Path Application Support/Sophos Anti-Virus
+ignore = Path Application Support/Spotify
+ignore = Path Application Support/Steam
+ignore = Path Application Support/SyncServices
+ignore = Path Application Support/TVREditor
+ignore = Path Application Support/Ubiquity
+ignore = Path Application Support/VMware Fusion
+ignore = Path Application Support/WhatsApp*
+
+ignore = Path Preferences/ByHost
+ignore = Path Preferences/FotoWare/FotoStation/Cache
+ignore = Path Preferences/FotoWare/FotoStation/Server Configuration
+ignore = Path Preferences/Lingsoft Proofreader
+ignore = Path Preferences/Macromedia/Flash Player
+ignore = Path Preferences/SDMHelpData
+ignore = Path Preferences/Quark
+ignore = Name Preferences/edu.upenn.cis.Unison.plist
+ignore = Name Preferences/com.apple.Safari.plist
+ignore = Name Preferences/Scoop*
+ignore = Name Preferences/se.scoop*
+ignore = Name Preferences/*.plist.*
+ignore = Name Preferences/*.TVREditor.*
+
+#Calendar
+ignore = Name Calendars/*.exchange
+ignore = Name Calendars/*.caldav
+ignore = Name Calendars/Calendar Cache*
+ignore = Name Calendars/Email Cache*
+
+#iCloud
+ignore = Path Mobile Documents*
+ignore = Path SyncedPreferences
+ignore = Path Application Support/iCloud
+
+#iTunes Updates
+ignore = Path iTunes/iPad Software Updates
+ignore = Path iTunes/iPod Software Updates
+ignore = Path iTunes/iPhone Software Updates
+ignore = Path iTunes/iPhone Carrier Support
+
+#Mail
+ignore = Path Mail/V2/AosIMAP-*
+ignore = Path Mail/V2/EWS-*
+ignore = Path Mail/V2/IMAP-*
+ignore = Path Mail/V2/POP-*
+ignore = Path Mail/V2/MailData
+ignore = Path Mail/V2/Mailboxes/Outbox.mbox
+ignore = Path Mail Downloads
+ignore = Path Application Support/Mail/OnlineAccountTypes
+ignore = Path Mail/V3
+
+#Safari
+ignore = Name Safari/History.plist
+ignore = Name Safari/HistoryIndex.sk
+ignore = Name Safari/Icons.db
+ignore = Name Safari/LastSession.plist
+
+#Thunderbird
+ignore = Path Thunderbird/Profiles/*.default/ImapMail
+ignore = Path Thunderbird/Profiles/*.default/ExQuilla
+
+#TT
+ignore = Path HomeService
+ignore = Path TT
+ignore = Path Application Support/TTS
