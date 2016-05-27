@@ -106,6 +106,10 @@ ignore = Name Preferences/se.scoop*
 ignore = Name Preferences/*.plist.*
 ignore = Name Preferences/*.TVREditor.*
 
+#Specific paths that *should* be included in sync, overriding ignore settings
+Path = Group Containers/G69SCX94XU.duck
+Path = Group Containers/2BUA8C4S2C.com.agilebits
+
 #Calendar
 ignore = Name Calendars/*.exchange
 ignore = Name Calendars/*.caldav
