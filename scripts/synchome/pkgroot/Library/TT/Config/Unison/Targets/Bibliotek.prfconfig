@@ -18,6 +18,7 @@ ignore = Path Autosave Information
 ignore = Path Caches
 ignore = Path Containers
 ignore = Path com.apple.*
+ignore = Path CoreFollowUp
 ignore = Path Developer
 ignore = Path Documentation
 ignore = Path Extensis
@@ -25,7 +26,7 @@ ignore = Path FileSync
 ignore = Path firstclass
 ignore = Path GameKit
 ignore = Path Google
-ignore = Path Group Containers
+ignore = Path Group Containers/*
 ignore = Path IdentityServices
 ignore = Path Logs
 ignore = Path Parallels
@@ -107,8 +108,8 @@ ignore = Name Preferences/*.plist.*
 ignore = Name Preferences/*.TVREditor.*
 
 #Specific paths that *should* be included in sync, overriding ignore settings
-Path = Group Containers/G69SCX94XU.duck
-Path = Group Containers/2BUA8C4S2C.com.agilebits
+ignorenot = Path Group Containers/G69SCX94XU.duck
+ignorenot = Path Group Containers/2BUA8C4S2C.com.agilebits
 
 #Calendar
 ignore = Name Calendars/*.exchange
