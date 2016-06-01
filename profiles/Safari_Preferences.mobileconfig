@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.Safari</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AlwaysShowTabBar</key>
+								<true/>
+								<key>AutoOpenSafeDownloads</key>
+								<false/>
+								<key>NewTabBehavior</key>
+								<integer>1</integer>
+								<key>NewWindowBehavior</key>
+								<integer>1</integer>
+								<key>ShowFullURLInSmartSearchField</key>
+								<true/>
+								<key>ShowOverlayStatusBar</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.4e9af0d0-176e-4f24-b1d4-3d6a558733b7.alacarte.customsettings.7b64ac34-13a8-4aed-bfb2-a2bd09d02a12</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>7b64ac34-13a8-4aed-bfb2-a2bd09d02a12</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.Safari
+
+Git revision: a0e04c60fc</string>
+	<key>PayloadDisplayName</key>
+	<string>Safari Preferences</string>
+	<key>PayloadIdentifier</key>
+	<string>se.tt.homeservice.mobileconfig.safari</string>
+	<key>PayloadOrganization</key>
+	<string>TT Nyhetsbyrån AB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4e9af0d0-176e-4f24-b1d4-3d6a558733b7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

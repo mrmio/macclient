@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>.GlobalPreferences</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AppleActionOnDoubleClick</key>
+								<string>Minimize</string>
+								<key>AppleMiniaturizeOnDoubleClick</key>
+								<integer>0</integer>
+								<key>AppleShowAllExtensions</key>
+								<integer>1</integer>
+								<key>AppleShowScrollBars</key>
+								<string>Always</string>							
+								<key>NSDocumentSaveNewDocumentsToCloud</key>
+								<false/>
+								<key>NSNavPanelFileLastListModeForOpenModeKey</key>
+								<integer>1</integer>
+								<key>NSNavPanelFileLastListModeForSaveModeKey</key>
+								<integer>1</integer>
+								<key>NSNavPanelFileListModeForOpenMode2</key>
+								<integer>1</integer>
+								<key>NavPanelFileListModeForOpenMode</key>
+								<integer>1</integer>
+								<key>com.apple.springing.delay</key>
+								<real>0.5</real>
+								<key>com.apple.springing.enabled</key>
+								<true/>
+								<key>com.apple.swipescrolldirection</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.100ea4b7-cbf0-4e6c-b988-d3cbb6b02134.alacarte.customsettings.b25c20bc-6ad6-4cca-9cf0-2d654c479d5f</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>b25c20bc-6ad6-4cca-9cf0-2d654c479d5f</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+.GlobalPreferences
+
+Git revision: a0e04c60fc</string>
+	<key>PayloadDisplayName</key>
+	<string>Global Preferences</string>
+	<key>PayloadIdentifier</key>
+	<string>se.tt.homeservice.mobileconfig.globalpreferences</string>
+	<key>PayloadOrganization</key>
+	<string>TT Nyhetsbyrån AB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>100ea4b7-cbf0-4e6c-b988-d3cbb6b02134</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

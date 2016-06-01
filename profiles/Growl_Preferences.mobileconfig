@@ -12,8 +12,6 @@
 					<key>Set-Once</key>
 					<array>
 						<dict>
-							<key>mcx_data_timestamp</key>
-							<date>2016-05-25T13:19:45Z</date>
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>GrowlDisplayPluginName</key>
