@@ -23,15 +23,23 @@
 								<key>AppleShowScrollBars</key>
 								<string>Always</string>							
 								<key>NSDocumentSaveNewDocumentsToCloud</key>
-								<false/>
+								<false/>								
 								<key>NSNavPanelFileLastListModeForOpenModeKey</key>
 								<integer>1</integer>
 								<key>NSNavPanelFileLastListModeForSaveModeKey</key>
 								<integer>1</integer>
 								<key>NSNavPanelFileListModeForOpenMode2</key>
 								<integer>1</integer>
+								<key>NSNavPanelFileListModeForSaveMode2</key>
+								<integer>1</integer>								
 								<key>NavPanelFileListModeForOpenMode</key>
 								<integer>1</integer>
+								<key>NavPanelFileListModeForSaveMode</key>
+								<integer>1</integer>
+								<key>PMPrintingExpandedStateForPrint</key>
+								<integer>1</integer>
+								<key>PMPrintingExpandedStateForPrint2</key>
+								<integer>1</integer>								
 								<key>com.apple.springing.delay</key>
 								<real>0.5</real>
 								<key>com.apple.springing.enabled</key>
