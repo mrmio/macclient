@@ -27,8 +27,6 @@
 			<true/>
 			<key>ShowRemovableMediaOnDesktop</key>
 			<false/>
-			<key>FXEnableExtensionChangeWarning</key>
-			<false/>
 			<key>ShowPathbar</key>
 			<true/>
 			<key>ShowStatusBar</key>
