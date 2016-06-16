@@ -42,6 +42,13 @@ ignore = Name *.msi
 ignore = Name *.pkg
 ignore = Name TTTV*.m3u
 
+#Ignore .app bundles
+ignore = Name *.app
+
+#Nosync folders
+ignore = Name Arbetsfiler_ejsynk
+ignore = Name Privat_ejsynk
+
 #Mediatypes
 # ignore = Name *.aac
 # ignore = Name *.avi

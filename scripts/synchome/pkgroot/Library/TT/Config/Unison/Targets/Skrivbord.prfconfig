@@ -20,6 +20,13 @@ ignore = Name *.iso
 ignore = Name *.msi
 ignore = Name *.pkg
 
+#Ignore .app bundles
+ignore = Name *.app
+
+#Nosync folders
+ignore = Name Arbetsfiler_ejsynk
+ignore = Name Privat_ejsynk
+
 #Mediatypes
 # ignore = Name *.aac
 # ignore = Name *.avi
