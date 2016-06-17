@@ -16,8 +16,6 @@
 							<dict>
 								<key>AlwaysShowTabBar</key>
 								<true/>
-								<key>AutoOpenSafeDownloads</key>
-								<true/>
 								<key>NewTabBehavior</key>
 								<integer>1</integer>
 								<key>NewWindowBehavior</key>
