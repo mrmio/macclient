@@ -26,6 +26,7 @@ ignore = Name *.app
 #Nosync folders
 ignore = Name Arbetsfiler_ejsynk
 ignore = Name Privat_ejsynk
+ignore = Name Renderingar*
 
 #Mediatypes
 # ignore = Name *.aac
