@@ -16,7 +16,7 @@ ignore = Path Accounts
 ignore = Path AutoPkg
 ignore = Path Autosave Information
 ignore = Path Caches
-ignore = Path Containers
+ignore = Path Containers/*
 ignore = Path com.apple.*
 ignore = Path CoreData
 ignore = Path CoreFollowUp
@@ -158,6 +158,7 @@ ignore = Name Preferences/*.plist.*
 ignore = Name Preferences/*.TVREditor.*
 
 #Specific paths that *should* be included in sync, overriding ignore settings
+ignorenot = Path Containers/com.microsoft.rdc.mac
 ignorenot = Path Group Containers/G69SCX94XU.duck
 ignorenot = Path Group Containers/2BUA8C4S2C.com.agilebits
 ignorenot = Path Preferences/Adobe InDesign/Version 7.5/sv_SE/InDesign Shortcut Sets
