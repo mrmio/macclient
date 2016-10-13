@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>org.pmbuko.ADPassMon</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>accTest</key>
+								<string>0</string>
+								<key>enableKeychainLockCheck</key>
+								<true/>
+								<key>isBehaviour2Enabled</key>
+								<integer>0</integer>
+								<key>passExpires</key>
+								<false/>
+								<key>prefsLocked</key>
+								<true/>
+								<key>selectedBehaviour</key>
+								<integer>1</integer>
+								<key>warningDays</key>
+								<integer>7</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.a637ec53-321b-4413-b421-1ce6ea78bd5d.alacarte.customsettings.cb415c73-821f-4faf-bafd-23341a571a40</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>cb415c73-821f-4faf-bafd-23341a571a40</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+org.pmbuko.ADPassMon
+
+Git revision: a0e04c60fc</string>
+	<key>PayloadDisplayName</key>
+	<string>ADPassMon Preferences</string>
+	<key>PayloadIdentifier</key>
+	<string>se.tt.homeservice.mobileconfig.adpassmon</string>
+	<key>PayloadOrganization</key>
+	<string>TT Nyhetsbyrån AB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>a637ec53-321b-4413-b421-1ce6ea78bd5d</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
