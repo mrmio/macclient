@@ -122,6 +122,7 @@ ignore = Name Preferences/.GlobalPreferences.*
 ignore = Path Preferences/Adobe
 ignore = Path Preferences/Adobe InDesign/Version 8.0/sv_SE/*
 ignore = Path Preferences/Adobe InDesign/Version 7.5/sv_SE/*
+ignore = Path Preferences/Adobe InDesign/Version 11.0/sv_SE/*
 ignore = Path Preferences/ByHost
 ignore = Path Preferences/FotoWare/FotoStation/Cache
 ignore = Path Preferences/FotoWare/FotoStation/Server Configuration
@@ -130,6 +131,7 @@ ignore = Path Preferences/Macromedia/Flash Player
 ignore = Path Preferences/SDMHelpData
 ignore = Path Preferences/Quark
 ignore = Name Preferences/edu.upenn.cis.Unison.plist
+ignore = Name Preferences/com.adobe.InDesign.plist
 ignore = Name Preferences/com.apple.AddressBook.plist
 ignore = Name Preferences/com.apple.appstore.plist
 ignore = Name Preferences/com.apple.ATS.plist
@@ -166,8 +168,10 @@ ignorenot = Path Group Containers/G69SCX94XU.duck
 ignorenot = Path Group Containers/2BUA8C4S2C.com.agilebits
 ignorenot = Path Preferences/Adobe InDesign/Version 7.5/sv_SE/InDesign Shortcut Sets
 ignorenot = Path Preferences/Adobe InDesign/Version 8.0/sv_SE/InDesign Shortcut Sets
+ignorenot = Path Preferences/Adobe InDesign/Version 11.0/sv_SE/InDesign Shortcut Sets
 ignorenot = Path Preferences/Adobe InDesign/Version 7.5/sv_SE/Workspaces
 ignorenot = Path Preferences/Adobe InDesign/Version 8.0/sv_SE/Workspaces
+ignorenot = Path Preferences/Adobe InDesign/Version 11.0/sv_SE/Workspaces
 
 #Calendar
 ignore = Name Calendars/*.exchange
