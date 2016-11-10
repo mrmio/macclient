@@ -208,6 +208,7 @@ ignore = Path Application Support/Mail/OnlineAccountTypes
 ignore = Path Mail/V3
 
 #Safari
+ignore = Name Safari/Downloads.plist
 ignore = Name Safari/History.plist
 ignore = Name Safari/HistoryIndex.sk
 ignore = Name Safari/Icons.db
