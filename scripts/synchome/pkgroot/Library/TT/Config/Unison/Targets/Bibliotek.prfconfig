@@ -135,6 +135,7 @@ ignore = Name Preferences/com.adobe.InDesign.plist
 ignore = Name Preferences/com.apple.AddressBook.plist
 ignore = Name Preferences/com.apple.appstore.plist
 ignore = Name Preferences/com.apple.ATS.plist
+ignore = Name Preferences/com.apple.calculateframework.plist
 ignore = Name Preferences/com.apple.commerce.*
 ignore = Name Preferences/com.apple.Console.plist
 ignore = Name Preferences/com.apple.dock.plist
