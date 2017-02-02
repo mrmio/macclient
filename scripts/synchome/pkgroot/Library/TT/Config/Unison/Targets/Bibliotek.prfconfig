@@ -148,6 +148,7 @@ ignore = Name Preferences/com.apple.imessage.bag.plist
 ignore = Name Preferences/com.apple.MCX.plist
 ignore = Name Preferences/com.apple.notificationcenterui.plist
 ignore = Name Preferences/com.apple.QuickLookDaemon.plist
+ignore = Name Preferences/com.apple.recentitems.plist
 ignore = Name Preferences/com.apple.spaces.plist
 ignore = Name Preferences/com.apple.systemuiserver.plist
 ignore = Name Preferences/com.apple.Terminal.plist
