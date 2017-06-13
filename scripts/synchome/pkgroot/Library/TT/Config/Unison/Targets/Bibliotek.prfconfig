@@ -211,11 +211,16 @@ ignore = Path Mail/V2/Mailboxes/Outbox.mbox
 ignore = Path Mail Downloads
 ignore = Path Application Support/Mail/OnlineAccountTypes
 ignore = Path Mail/V3
+ignore = Path Mail/V4
 
 #Safari
 ignore = Name Safari/Downloads.plist
-ignore = Name Safari/History.plist
+ignore = Name Safari/History.db
+ignore = Name Safari/History.db-lock
+ignore = Name Safari/History.db-shm
+ignore = Name Safari/History.db-wal
 ignore = Name Safari/HistoryIndex.sk
+ignore = Name Safari/History.plist
 ignore = Name Safari/Icons.db
 ignore = Name Safari/LastSession.plist
 ignore = Path Safari/Databases
