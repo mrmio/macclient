@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.grahamgilbert.crypt</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>FDEAddUser</key>
+								<true/>
+								<key>RemovePlist</key>
+								<true/>
+								<key>RotateUsedKey</key>
+								<true/>
+								<key>ServerURL</key>
+								<string>https://cryptserver.a.tt.se</string>
+								<key>SkipUsers</key>
+								<array>
+									<string>admin</string>
+								</array>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.7baa8ec6-7181-4b69-aa50-ba5fe4d4c9a1.alacarte.customsettings.7d63c93d-0b6b-4cd6-9fbc-37ccd70f07fe</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>7d63c93d-0b6b-4cd6-9fbc-37ccd70f07fe</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.grahamgilbert.crypt
+
+Git revision: a0e04c60fc</string>
+	<key>PayloadDisplayName</key>
+	<string>Crypt2 Preferences</string>
+	<key>PayloadIdentifier</key>
+	<string>se.tt.homeservice.mobileconfig.crypt2</string>
+	<key>PayloadOrganization</key>
+	<string>TT Nyhetsbyrån AB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7baa8ec6-7181-4b69-aa50-ba5fe4d4c9a1</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
