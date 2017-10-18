@@ -25,6 +25,7 @@ ignore = Name *.app
 
 #Nosync folders
 ignore = Name Arbetsfiler_ejsynk
+ignore = Name EDIPLUSS
 ignore = Name Privat_ejsynk
 ignore = Name Renderingar*
 
