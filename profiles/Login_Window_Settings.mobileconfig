@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AdminHostInfo</key>
+			<string>HostName</string>
+			<key>LoginwindowText</key>
+			<string>TT Nyhetsbyrån. Ange din signatur och lösenord för att logga in.
+
+För teknisk hjälp, ring 2654.</string>
+			<key>PayloadDisplayName</key>
+			<string>Login Window</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.deploy3.ad.tt.se.6b062ca0-0820-0136-1c76-109add60f0bf.alacarte.loginwindow.d8f88660-0820-0136-1c77-109add60f0bf.loginwindow</string>
+			<key>PayloadType</key>
+			<string>com.apple.loginwindow</string>
+			<key>PayloadUUID</key>
+			<string>cc667e8c-cdaa-5f60-fcc2-bff960d0747e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SHOWFULLNAME</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Login Window Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.deploy3.ad.tt.se.6b062ca0-0820-0136-1c76-109add60f0bf.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>TT Nyhetsbyrån AB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6b062ca0-0820-0136-1c76-109add60f0bf</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
