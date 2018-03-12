@@ -14,11 +14,11 @@
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>FDEAddUser</key>
-								<true/>
 								<key>RemovePlist</key>
 								<true/>
 								<key>RotateUsedKey</key>
+								<true/>
+								<key>ValidateKey</key>
 								<true/>
 								<key>ServerURL</key>
 								<string>https://cryptserver.a.tt.se</string>
